@@ -56,4 +56,4 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-The complete list of variables of each feature vector is available in 'features.txt'
+For the summarized file, the mean was taken for each column, grouped by subject and activity
