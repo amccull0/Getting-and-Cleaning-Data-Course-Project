@@ -12,4 +12,5 @@ This project completes the follwing criteria
 Data used for this project was sourced here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 Merged_Data is the output for step 4
+
 Summarized_Data is the output for step 5
